@@ -2,8 +2,8 @@
 
 # Objectives	 
 
-• Become familiar with HTML and CSS technologies
-• Learn how to imitate a web page 
+* Become familiar with HTML and CSS technologies
+* Learn how to imitate a web page 
 
 # Description 
 
